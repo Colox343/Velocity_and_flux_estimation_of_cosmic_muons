@@ -1,0 +1,6 @@
+stima velocità: 40892052.83468195 m/s
+incertezza: 592725.5067929396 m/s
+chi-quadro: 1905.406268684132
+n. punti: 4
+cosnstraints: 1
+dof: 3
