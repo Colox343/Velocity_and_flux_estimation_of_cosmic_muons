@@ -1,4 +1,4 @@
-# Velocity-estimation-of-cosmic-muons
+# Velocity-and-flux-estimation-of-cosmic-muons
 The experimental experience consisted in a characterization of cosmic muons at the ground level, estimating their speed and their flux in function of the angle with the ground.<br>
 The work was conducted using a set of scintillators, electronic counters and coincidence detectors. It was divided into three parts:<br>
 1) the calibration of the equipment;
